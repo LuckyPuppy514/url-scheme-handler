@@ -17,6 +17,10 @@ Releases：[url-scheme-handler/releases](https://github.com/LuckyPuppy514/url-sc
 
 ![20241125202543](https://github.com/LuckyPuppy514/url-scheme-handler/blob/main/screenshot/20241125202543.jpg?raw=true)
 
+> **注意：应用名称应与 external-player 中的名称保持一致（大小写也需一致）**
+
+![20250514203101](https://github.com/LuckyPuppy514/url-scheme-handler/blob/main/screenshot/20250514203101.jpg?raw=true)
+
 建议添加 `开启勾选框` 注册表，添加后首次运行可勾选是否自动允许运行，后续不用再弹窗确认
 
 开启勾选框：[Enable_ExternalProtocolDialog_ShowCheckbox.reg](https://github.com/LuckyPuppy514/url-scheme-handler/blob/main/reg/Enable_ExternalProtocolDialog_ShowCheckbox.reg)
